@@ -1,4 +1,3 @@
-%Toz fyk ya kareem ya hayes
 %generation data stream
 num_bits =10000-20 ;
 binary_data_stream = randi( [0,1] , 1,num_bits );
